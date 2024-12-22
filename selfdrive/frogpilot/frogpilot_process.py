@@ -3,8 +3,6 @@ import subprocess
 import threading
 import time
 
-import openpilot.system.sentry as sentry
-
 from pathlib import Path
 
 from cereal import messaging
